@@ -1,0 +1,165 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:design:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/c9555feb854cff875fa2be2b27d0d74f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/2413ba3c188014da14b3694b7c25cf1d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.support:wearable:2.0.5] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/wearable-2.0.5.aar/284b15c4ef3d0e6a42586237b29591e0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/10052ab47bf79186beac550a242a1951/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/8f685b945003e1eb66db14ff636f6a65/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/ad1ae1588e55d947a7f7ad9adea2eaeb/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/328e140594f45b2af688d92e705bbce0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/f0d98c66dd5e80f3291f821601050c16/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/a0fecec8e3b995806bef233c4b5360e7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/ed16207519a4145c53bdaf97f70445a1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0.aar/8aec9d493544ac9d0ef124bff653085c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/fd2a0dbcc1d04d56139c33b6677ca9b2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:percent:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/percent-26.0.0.aar/929eb2d952b145f6f68ac5c68a650270/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/9efa3ee5b9250c8490fd59e24ab82091/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml:2:1-12:12
+	package
+		ADDED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml:2:120-171
+		INJECTED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml:2:94-119
+		INJECTED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml:2:70-93
+		INJECTED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml:3:5-73
+INJECTED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml:3:5-73
+INJECTED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml:3:5-73
+MERGED from [com.android.support:design:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/c9555feb854cff875fa2be2b27d0d74f/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/c9555feb854cff875fa2be2b27d0d74f/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/2413ba3c188014da14b3694b7c25cf1d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/2413ba3c188014da14b3694b7c25cf1d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.support:wearable:2.0.5] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/wearable-2.0.5.aar/284b15c4ef3d0e6a42586237b29591e0/AndroidManifest.xml:4:3-70
+MERGED from [com.google.android.support:wearable:2.0.5] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/wearable-2.0.5.aar/284b15c4ef3d0e6a42586237b29591e0/AndroidManifest.xml:4:3-70
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/10052ab47bf79186beac550a242a1951/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/10052ab47bf79186beac550a242a1951/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/8f685b945003e1eb66db14ff636f6a65/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/8f685b945003e1eb66db14ff636f6a65/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/ad1ae1588e55d947a7f7ad9adea2eaeb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/ad1ae1588e55d947a7f7ad9adea2eaeb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/328e140594f45b2af688d92e705bbce0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/328e140594f45b2af688d92e705bbce0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/f0d98c66dd5e80f3291f821601050c16/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/f0d98c66dd5e80f3291f821601050c16/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/a0fecec8e3b995806bef233c4b5360e7/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/a0fecec8e3b995806bef233c4b5360e7/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/ed16207519a4145c53bdaf97f70445a1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/ed16207519a4145c53bdaf97f70445a1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0.aar/8aec9d493544ac9d0ef124bff653085c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0.aar/8aec9d493544ac9d0ef124bff653085c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/fd2a0dbcc1d04d56139c33b6677ca9b2/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/fd2a0dbcc1d04d56139c33b6677ca9b2/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:percent:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/percent-26.0.0.aar/929eb2d952b145f6f68ac5c68a650270/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/percent-26.0.0.aar/929eb2d952b145f6f68ac5c68a650270/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/9efa3ee5b9250c8490fd59e24ab82091/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/9efa3ee5b9250c8490fd59e24ab82091/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml:3:5-73
+INJECTED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml:3:5-73
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/c9555feb854cff875fa2be2b27d0d74f/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml:3:42-71
+		INJECTED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml:3:15-41
+		INJECTED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml:4:5-11:19
+MERGED from [com.android.support:design:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/c9555feb854cff875fa2be2b27d0d74f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/c9555feb854cff875fa2be2b27d0d74f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/2413ba3c188014da14b3694b7c25cf1d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/2413ba3c188014da14b3694b7c25cf1d/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.support:wearable:2.0.5] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/wearable-2.0.5.aar/284b15c4ef3d0e6a42586237b29591e0/AndroidManifest.xml:6:3-8:17
+MERGED from [com.google.android.support:wearable:2.0.5] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/wearable-2.0.5.aar/284b15c4ef3d0e6a42586237b29591e0/AndroidManifest.xml:6:3-8:17
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/10052ab47bf79186beac550a242a1951/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/10052ab47bf79186beac550a242a1951/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/8f685b945003e1eb66db14ff636f6a65/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/8f685b945003e1eb66db14ff636f6a65/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/ad1ae1588e55d947a7f7ad9adea2eaeb/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/ad1ae1588e55d947a7f7ad9adea2eaeb/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/328e140594f45b2af688d92e705bbce0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/328e140594f45b2af688d92e705bbce0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/f0d98c66dd5e80f3291f821601050c16/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/f0d98c66dd5e80f3291f821601050c16/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/a0fecec8e3b995806bef233c4b5360e7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/a0fecec8e3b995806bef233c4b5360e7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/ed16207519a4145c53bdaf97f70445a1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/ed16207519a4145c53bdaf97f70445a1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0.aar/8aec9d493544ac9d0ef124bff653085c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0.aar/8aec9d493544ac9d0ef124bff653085c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/fd2a0dbcc1d04d56139c33b6677ca9b2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/fd2a0dbcc1d04d56139c33b6677ca9b2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:percent:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/percent-26.0.0.aar/929eb2d952b145f6f68ac5c68a650270/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:percent:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/percent-26.0.0.aar/929eb2d952b145f6f68ac5c68a650270/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/9efa3ee5b9250c8490fd59e24ab82091/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/9efa3ee5b9250c8490fd59e24ab82091/AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml:4:48-83
+	android:icon
+		ADDED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml:4:18-47
+activity#com.mrajlabs.interspaceinvaders.invaders3.MainActivity
+ADDED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml:5:9-10:20
+	android:theme
+		ADDED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml:5:48-115
+	android:name
+		ADDED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml:5:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml:6:13-9:29
+action#android.intent.action.MAIN
+ADDED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml:7:17-68
+	android:name
+		ADDED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml:7:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml:8:17-76
+	android:name
+		ADDED from /Users/Suluxan/Documents/Processing/invaders3/android/app/src/main/AndroidManifest.xml:8:27-74
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/c9555feb854cff875fa2be2b27d0d74f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/2413ba3c188014da14b3694b7c25cf1d/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/2413ba3c188014da14b3694b7c25cf1d/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/10052ab47bf79186beac550a242a1951/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/10052ab47bf79186beac550a242a1951/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/8f685b945003e1eb66db14ff636f6a65/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/8f685b945003e1eb66db14ff636f6a65/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/ad1ae1588e55d947a7f7ad9adea2eaeb/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/ad1ae1588e55d947a7f7ad9adea2eaeb/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/f0d98c66dd5e80f3291f821601050c16/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/f0d98c66dd5e80f3291f821601050c16/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/a0fecec8e3b995806bef233c4b5360e7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/a0fecec8e3b995806bef233c4b5360e7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/ed16207519a4145c53bdaf97f70445a1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/ed16207519a4145c53bdaf97f70445a1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0.aar/8aec9d493544ac9d0ef124bff653085c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0.aar/8aec9d493544ac9d0ef124bff653085c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/fd2a0dbcc1d04d56139c33b6677ca9b2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/fd2a0dbcc1d04d56139c33b6677ca9b2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:percent:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/percent-26.0.0.aar/929eb2d952b145f6f68ac5c68a650270/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:percent:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/percent-26.0.0.aar/929eb2d952b145f6f68ac5c68a650270/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/9efa3ee5b9250c8490fd59e24ab82091/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/9efa3ee5b9250c8490fd59e24ab82091/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/c9555feb854cff875fa2be2b27d0d74f/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/c9555feb854cff875fa2be2b27d0d74f/AndroidManifest.xml:26:9-47
+uses-library#com.google.android.wearable
+ADDED from [com.google.android.support:wearable:2.0.5] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/wearable-2.0.5.aar/284b15c4ef3d0e6a42586237b29591e0/AndroidManifest.xml:7:5-88
+	android:required
+		ADDED from [com.google.android.support:wearable:2.0.5] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/wearable-2.0.5.aar/284b15c4ef3d0e6a42586237b29591e0/AndroidManifest.xml:7:62-86
+	android:name
+		ADDED from [com.google.android.support:wearable:2.0.5] /Users/Suluxan/.gradle/caches/transforms-1/files-1.1/wearable-2.0.5.aar/284b15c4ef3d0e6a42586237b29591e0/AndroidManifest.xml:7:19-61
